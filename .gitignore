@@ -1,0 +1,11 @@
+# Ignore files with .log extension
+*.log
+
+# Ignore the directory named "build"
+/build
+
+# Ignore the file named "config.ini"
+config.ini
+
+# Ignore all files in the "tmp" directory
+tmp/
